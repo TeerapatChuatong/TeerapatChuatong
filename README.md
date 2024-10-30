@@ -10,7 +10,33 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" width="80" height="80"/>
 </div>
 
-<!---
-TeerapatChuatong/TeerapatChuatong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>โปรไฟล์ GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        #badges {
+            margin: 20px 0;
+        }
+        img {
+            width: 40px; /* ปรับขนาดรูปภาพที่นี่ */
+            height: 40px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+</html>
