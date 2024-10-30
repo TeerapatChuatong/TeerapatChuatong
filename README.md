@@ -3,6 +3,8 @@
 </div>
 
 - 👋 Hi, I’m @TeerapatChuatong
+
+<h3>ช่องทางติดต่อ</h3>
 <div id="badges">
   <a href="https://www.instagram.com/eaxthuzix_/profilecard/?igsh=b3lpajUwZHZhbXNq">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" width="80" height="80"/>
