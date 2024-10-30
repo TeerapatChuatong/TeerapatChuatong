@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m @TeerapatChuatong
+- 👋 Hi, I’m TeerapatChuatong
 
 <h3>ช่องทางติดต่อ</h3>
 <div id="badges">
