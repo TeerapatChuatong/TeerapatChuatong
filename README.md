@@ -3,13 +3,10 @@
 </div>
 
 - 👋 Hi, I’m @TeerapatChuatong
-- 
 <div id="badges">
   <a href="https://www.instagram.com/eaxthuzix_/profilecard/?igsh=b3lpajUwZHZhbXNq">
-    <img src="https://e7.pngegg.com/pngimages/704/270/png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta-thumbnail.png" width="80" height="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" width="80" height="80"/>
 </div>
-
-- 👋 Hi, I’m @TeerapatChuatong
 
 <!---
 TeerapatChuatong/TeerapatChuatong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
