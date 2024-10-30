@@ -8,35 +8,9 @@
 <div id="badges">
   <a href="https://www.instagram.com/eaxthuzix_/profilecard/?igsh=b3lpajUwZHZhbXNq">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" width="80" height="80"/>
+    </a>
+  <a href="https://www.facebook.com/share/qnHgVPFE7Lw8LAKD/?mibextid=LQQJ4d">
+    <img src="data:image/png;base64,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" width="80" height="80"/>
 </div>
 
-<!DOCTYPE html>
-<html lang="th">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>โปรไฟล์ GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
-            padding: 20px;
-            text-align: center;
-        }
-        #badges {
-            margin: 20px 0;
-        }
-        img {
-            width: 40px; /* ปรับขนาดรูปภาพที่นี่ */
-            height: 40px;
-        }
-        h1 {
-            font-size: 2.5em;
-        }
-        p {
-            font-size: 1.2em;
-        }
-    </style>
-</head>
-</html>
+
